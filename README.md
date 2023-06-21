@@ -46,6 +46,6 @@ All levels are generated symmetrically.  <br />
 ### Aim
 The aim of this game is the aim is past through the space between pipes each pipes past increase your score of 1 point. If you touch a pipe or a screen border the game end.
 
-##**__Easter Egg__**
+## **__Easter Egg__**
 We have choose to hide an easter game in the main menu. When you click on the button quit in the left-bottom corner, another menu is opened and ask you "Are you sure ?". <br />
 If you press the buttom yes, it is teleported to another place. So, if you when to quit the application reuse the button quit in the left-bottom corner in this menu. 
