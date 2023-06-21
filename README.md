@@ -1,12 +1,12 @@
 # Project_LP2B
 
 ## Menu 
-![Screenshot of Menu](https://github.com/Oazin/Project_LP2B/blob/master/Pictures/Main%20Menu.png) <br />
+![Screenshot of Menu](https://github.com/Oazin/Project_LP2B/blob/main/Pictures/Main%20Menu.png) <br />
 You can choose the game that you when to play. <br />
 Brick Breacker and Furapi Bird have a pause menu.
 
 ## 1. Apple Catcher
-![Screenshot of Apple Catcher](https://github.com/Oazin/Project_LP2B/blob/master/Pictures/Apple%20Catcher.png) <br />
+![Screenshot of Apple Catcher](https://github.com/Oazin/Project_LP2B/blob/main/Pictures/Apple%20Catcher.png) <br />
 
 ### Controls 
 **q** and **d** for moving the Catcher boy <br />
@@ -19,7 +19,7 @@ The aim of this game is collected the maximum of apples in 180 seconds.
 You have 3 lives. Each time that you recolt a bomb you loose a life. The game stops when you have 0 life or the time is 0 seconds 
 
 ## 2. Brick Breacker
-![Screenshot of Brick Breacker](https://github.com/Oazin/Project_LP2B/blob/master/Pictures/Brick%20Breaker.png) <br />
+![Screenshot of Brick Breacker](https://github.com/Oazin/Project_LP2B/blob/main/Pictures/Brick%20Breaker.png) <br />
 
 ### Controls
 **q** and **d** for moving the Paddle <br />
