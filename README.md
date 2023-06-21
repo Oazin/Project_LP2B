@@ -1,7 +1,7 @@
 # Project_LP2B
 
 ## 1. Apple Catcher
-![Screenshot of Apple Catcher](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of Apple Catcher](https://github.com/Oazin/Project_LP2B/blob/main/Pictures/Apple%20Catcher.png)
 
 ### Controls 
 **q** and **d** for moving the Catcher boy <br />
@@ -14,7 +14,7 @@ The aim of this game is collected the maximum of apples in 180 seconds.
 You have 3 lives. Each time that you recolt a bomb you loose a life. The game stops when you have 0 life or the time is 0 seconds 
 
 ## 2. Brick Breacker
-![Screenshot of Brick Breacker](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of Brick Breacker](https://github.com/Oazin/Project_LP2B/blob/main/Pictures/Brick%20Breacker.png)
 
 ### Controls
 **q** and **d** for moving the Paddle <br />
